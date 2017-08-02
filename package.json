@@ -1,0 +1,24 @@
+{
+  "name": "npm-seed",
+  "version": "1.0.0",
+  "description": "angular2 seed repo for creating npm package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/EddieLi/npm-angular2-seed.git"
+  },
+  "keywords": [
+    "angular2",
+    "npm",
+    "seed"
+  ],
+  "author": "Eddie li",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EddieLi/npm-angular2-seed/issues"
+  },
+  "homepage": "https://github.com/EddieLi/npm-angular2-seed#readme"
+}
