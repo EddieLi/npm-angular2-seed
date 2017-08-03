@@ -1,8 +1,14 @@
-# npm-angular2-seed
-angular2 seed repo for creating npm packages
+# NPM Angular2 Seed
+This is a seed repo for creating an Angular2 Component and publish to NPM package manager.
 
-Change component name specifically for your package and run `npm run build` to generate a build file for you to deploy to NPM library.
+# To Do
+1. Change component name specifically for your package and run `npm run build` to generate a build file for you to deploy to NPM library.
 
-Login by typing "npm login"
+# Publish to NPM Package Manager
+1. Login by typing "npm login"
+2. Publish your package by typing "npm publish"
 
-Publish your package by typing "npm publish"
+# Use your own NPM Package
+1. `npm install [your package name]@[version]`
+2. `import [COMPONENT CLASS NAME] from '[package name]'`
+3. You may now use your new npm package
