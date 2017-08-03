@@ -1,0 +1,1 @@
+// exports.[COMPONENT_NAME] = require ('./bundle/[COMPONENT_NAME].component').[COMPONENT_CLASS_NAME];

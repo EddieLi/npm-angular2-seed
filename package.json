@@ -4,6 +4,7 @@
   "description": "angular2 seed repo for creating npm package",
   "main": "index.js",
   "scripts": {
+    "build": "rm -rf bundle && tsc",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
