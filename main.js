@@ -1,1 +1,1 @@
-// exports.[COMPONENT_NAME] = require ('./bundle/[COMPONENT_NAME].component').[COMPONENT_CLASS_NAME];
+exports.SeedDemo = require ('./bundle/ng2-seed-demo.component').Ng2SeedDemoComponent;
